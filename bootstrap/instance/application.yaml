@@ -11,5 +11,7 @@ spec:
     path: servicemesh/overlays/default
     repoURL: https://github.com/davgordo/cluster-gitops-rlfdw.git
     targetRevision: HEAD
+    directory:
+      recurse: false
   syncPolicy:
     automated: {}
