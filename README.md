@@ -23,7 +23,6 @@ Use this repository as a starting point to manage a Service Mesh on an OpenShift
     oc adm policy add-cluster-role-to-user cluster-admin system:serviceaccount:openshift-gitops:openshift-gitops-argocd-application-controller
     ```
 
-
 5. Provision the ArgoCD `Application`:
 
     ```
