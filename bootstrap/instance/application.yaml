@@ -8,7 +8,7 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    path: servicemesh/overlays/default
+    path: apps
     repoURL: https://github.com/davgordo/cluster-gitops-2jgs8.git
     targetRevision: HEAD
     directory:
