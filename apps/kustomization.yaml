@@ -5,4 +5,3 @@ resources:
   - application-service-mesh.yaml
   - application-bookinfo-test.yaml
   - application-bookinfo-qa.yaml
-  - configmap-argocd.yaml
