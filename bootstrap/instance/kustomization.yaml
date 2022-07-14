@@ -4,3 +4,4 @@ kind: Kustomization
 resources:
   - application.yaml
   - rolebinding-argocd.yaml
+  - configmap-argocd.yaml
